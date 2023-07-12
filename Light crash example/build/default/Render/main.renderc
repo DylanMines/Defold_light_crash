@@ -1,0 +1,5 @@
+
+/Render/main.render_scriptc1
+
+shadow_map#/lights/render/shadow_map.materialc,
+model#/builtins/materials/model.materialc
